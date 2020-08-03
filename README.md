@@ -16,5 +16,5 @@ Get in touch! I'm on [LinkedIn](https://www.linkedin.com/in/alex-leedom/). Somet
 
 ### Programs 
 
-[A program to parse ancient Greek texts and generate word frequency statistics, dictionary entries, and automated Anki decks](https://github.com/gymnosophist/flashy_flashcards). I published a post about this project on [Medium](https://medium.com/python-in-plain-english/make-flashier-flashcards-automating-anki-with-python-2744ed025366)  as well, published in [Python in Plain English](https://medium.com/python-in-plain-english)
+[A program to parse ancient Greek texts and generate word frequency statistics, dictionary entries, and automated Anki decks](https://github.com/gymnosophist/flashy_flashcards). I wrote a post about this project on [Medium](https://medium.com/python-in-plain-english/make-flashier-flashcards-automating-anki-with-python-2744ed025366)  as well, published in [Python in Plain English](https://medium.com/python-in-plain-english)
 
