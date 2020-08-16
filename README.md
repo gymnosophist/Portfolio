@@ -14,7 +14,13 @@ Get in touch! I'm on [LinkedIn](https://www.linkedin.com/in/alex-leedom/). Somet
 
 [A statistical analysis of a Washington Post dataset on fatal police violence, looking specifically for evidence of racial bias in police shootings](https://github.com/gymnosophist/fatal_police_shootings). Read more about this project on [Medium](https://levelup.gitconnected.com/morbid-statistics-with-r-6023684aa9bc), published in [Level Up Coding](https://levelup.gitconnected.com/). 
 
+[A project looking at Geographic Information in New York Times Datelines](/Nyt_blog_post). I've included Jupyter and R markdown notebooks for this project, as well as the scripts I used to clean and parse the data. 
+
 ### Programs 
 
 [A program to parse ancient Greek texts and generate word frequency statistics, dictionary entries, and automated Anki decks](https://github.com/gymnosophist/flashy_flashcards). I wrote a post about this project on [Medium](https://medium.com/python-in-plain-english/make-flashier-flashcards-automating-anki-with-python-2744ed025366)  as well, published in [Python in Plain English](https://medium.com/python-in-plain-english)
+
+### Projects 
+
+More with the New York Times archive. I [built an ETL pipeline to parse the archive and post it to a Redshift cluster.](https://github.com/gymnosophist/New-York-Times-API-Parser)
 
